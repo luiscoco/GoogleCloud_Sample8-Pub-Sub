@@ -1,7 +1,7 @@
 ﻿using Google.Cloud.PubSub.V1;
 using Grpc.Core;
 
-string projectId = "focus-cache-387205";
+string projectId = "XXXXXXXXXXXXX";
 string topicId = "luis-topic-1";
 string subscriptionId = "subscription-first";
 
